@@ -1,5 +1,5 @@
 body{
-    color: black;
+    color: rbg(252, 251, 251);
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Roboto Mono", monospace;
@@ -10,7 +10,7 @@ body{
     border: solid 2px rgb(45, 60, 136);
     padding: 20px;
     font-size: 32px;
-    color: rgb(45, 60, 136);
+    color: rgb(189, 190, 199);
   }
   
   .chamada {
@@ -54,9 +54,9 @@ body{
   }
   .categoria-videos img:hover {
     opacity:1.0;
-    border:1px solid white;
+    border:1px solid rbg(158, 5, 247);
   }
   
   .categoria h2 {
-    color:rgb(45, 60, 136);
+    color:rgb(87, 90, 107);
   }
